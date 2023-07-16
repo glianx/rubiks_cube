@@ -26,5 +26,5 @@ It executes the Cross-F2L-OLL-PLL Method with Breadth First Search using a queue
 The code is under 350 lines.
 
 <p align="left">
-  <img src="rubiks3.0_demo.gif" width="250" title="hover text">
+  <img src="rubiks3.0_demo3.gif" width="250" title="hover text">
 </p>
