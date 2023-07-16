@@ -16,7 +16,7 @@ It executes the Cross-F2L-OLL-PLL Method with Depth First Search using nested fo
 The code is under 500 lines.
 
 <p align="left">
-  <img src="rubiks2.0_demo.gif" width="250" title="hover text">
+  <img src="rubiks2.0_demo2.gif" width="250" title="hover text">
 </p>
 
 Rubiks3.0 is the most advanced.
