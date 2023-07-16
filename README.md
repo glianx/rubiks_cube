@@ -15,7 +15,6 @@ Rubiks2.0 is the fastest of them all.
 
 Rubiks3.0 is the most advanced.
 
-<video width="320" height="240" controls>
-  <source src="rubiks3.0_demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<p align="left">
+  <img src="rubiks3.0_demo.gif" height="150" title="hover text">
+</p>
